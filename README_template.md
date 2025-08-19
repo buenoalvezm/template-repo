@@ -1,8 +1,3 @@
----
-title: "Project Title"
-output: github_document
----
-
 # Project Title  
 
 [![DOI](https://zenodo.org/badge/<your-zenodo-id>.svg)](https://doi.org/<your-doi>)  
@@ -21,13 +16,11 @@ output: github_document
 7. [License](#license)  
 8. [Contact](#contact)  
 
----
 
 ## Project overview  
 
 Briefly describe your project here. 
 
----
 
 ## Data description  
 
@@ -38,7 +31,6 @@ Provide an overview of the dataset(s) used in this project:
 - **Format**: Data format (CSV, FASTQ, etc.) and preprocessing notes.  
 - **Platform/method**: If applicable, mention experimental or computational platform used (e.g., sequencing, proteomics, survey, simulation).  
 
----
 
 ## Methodology  
 
@@ -48,7 +40,6 @@ Outline the main methods used in your analysis or pipeline:
 - **Statistical analysis**: What models or tests were applied.  
 - **Other analyses**: Domain-specific approaches.  
 
----
 
 ## Results & insights  
 
@@ -59,7 +50,6 @@ Summarize the most important findings:
 - Any practical applications or implications.  
 - Links to figures, tables, or supplementary results (if stored in the repo).  
 
----
 
 ## Usage
 
@@ -77,7 +67,6 @@ cd <your-repo>
 ```r
 renv::restore()
 ```
----
 
 ## Directory structure
 
@@ -93,13 +82,11 @@ renv::restore()
 └── 📜 LICENSE              # License file
 ```
 
----
 
 ## License
 
 This project is licensed under the **Apache License 2.0** – see the [LICENSE](LICENSE) file for details.
 
----
 
 ## Contact
 
